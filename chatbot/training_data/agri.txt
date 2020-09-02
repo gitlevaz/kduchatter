@@ -1,0 +1,14 @@
+who made you?
+F A M myuser Software Eng
+
+hey
+Hello Welcome to agriculture virtual assistant To Discuss About Disease Enter - 1 and for Identify The Disease Enter 2
+
+1
+Okay in over Artificial System concern  about these Disease and if you know the Disease please select blow one (Anthracnose,)
+[
+Anthracnose
+Yes, it is possible to control anthracnose without using toxic fungicides and sprays. Here’s how:Generally found in the eastern part of the United States, anthracnose is caused by fungi in the genus Colletotrichum, a common group of plant pathogens that are responsible for diseases on many plant species. Infected plants develop dark, water soaked lesions on stems, leaves or fruit. The centers of these lesions often become covered with pink, gelatinous masses of spores especially during moist, warm weather. Anthracnose can reduce a beautiful harvest into rotted waste in just a few days.The fungal disease overwinters in and on seeds, soil and garden debris. Cool wet weather promotes its development, and the optimum temperature for continued growth of the spores is between 75-85˚F. Moisture is required for development and germination of the fungus as well as for infection of the plant. It is spread by wind, rain, insects and garden tools.and if you want information about Treatment?
+yes
+1-Choose resistant plant varieties when possible and use western grown seeds which have not been exposed to the disease.2-If this fungal problem is common, do NOT save your own seed from plantings.To avoid spreading the disease, keep out of gardens when plants are wet and make sure to disinfect all garden tools (one part bleach to 4 parts water) after use.
+]
